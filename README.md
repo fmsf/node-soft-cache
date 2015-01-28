@@ -1,4 +1,4 @@
-![Build status](https://api.travis-ci.org/fmsf/node-soft-cache.svg)
+![Build status](https://api.travis-ci.org/fmsf/node-soft-cache.svg) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fmsf/node-soft-cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 node-soft-cache
